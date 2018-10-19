@@ -1,6 +1,6 @@
 {
   "dev-dependencies": [],
   "dependencies": [
-    "pip==9.0.1"
+    "pip>=18"
   ]
 }
